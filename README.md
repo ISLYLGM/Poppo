@@ -1,4 +1,4 @@
-Poppo - Pomodoro Study App 🍅
+#Poppo - Pomodoro Study App 🍅#
 
 Poppo é um aplicativo de produtividade baseado no método Pomodoro, desenvolvido para ajudar os usuários a gerenciar seu tempo de estudo de maneira mais eficiente. O aplicativo adota o tema italiano, com "Poppo" representando um tomate, símbolo do método Pomodoro. O projeto está sendo desenvolvido em Kotlin no Android Studio.
 
